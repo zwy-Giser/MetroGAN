@@ -11,3 +11,8 @@ Weiyu Zhang, Yiyang Ma, Di zhu, Lei Dong, Yu Liu
 The paper is accepted by **KDD'22**.
 ## Dataset
 The link of global cities dataset: https://www.dropbox.com/s/ck168sn6xax6trc/Multi-year%20Dataset.zip?dl=0 
+
+## Cite
+Please consider citing our paper if this helps in your work:
+
+Weiyu Zhang, Yiyang Ma, Di Zhu, Lei Dong, and Yu Liu. 2022. MetroGAN: Simulating Urban Morphology with Generative Adversarial Network. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’22). https://doi.org/10.1145/3534678.3539239
