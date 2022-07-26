@@ -1,6 +1,6 @@
 # MetroGAN
-
 This repository contains the implementation and material of the following paper:
+
 >**MetroGAN: Simulating Urban Morphology with Generative Adversarial Network**   
 Weiyu Zhang, Yiyang Ma, Di zhu, Lei Dong, Yu Liu  
 >  
