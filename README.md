@@ -10,7 +10,9 @@ Weiyu Zhang, Yiyang Ma, Di zhu, Lei Dong, Yu Liu
 
 The paper is accepted by **KDD'22**.
 ## Dataset
-The link of global cities dataset: https://www.dropbox.com/s/ck168sn6xax6trc/Multi-year%20Dataset.zip?dl=0 
+The link of global cities dataset: 
+- Dropbox: https://www.dropbox.com/s/ck168sn6xax6trc/Multi-year%20Dataset.zip?dl=0 
+- 百度网盘: https://pan.baidu.com/s/1zhHQA1PZCbxiA_8oldUMgw  Password: 1234
 
 ## Cite
 Please consider citing our paper if this helps in your work:
