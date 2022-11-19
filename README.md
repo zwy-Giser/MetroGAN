@@ -12,8 +12,10 @@ The paper is accepted by **KDD'22**.
 ## Dataset
 The link of global cities dataset: 
 - Dropbox: https://www.dropbox.com/s/ck168sn6xax6trc/Multi-year%20Dataset.zip?dl=0 
-- 百度网盘: https://pan.baidu.com/s/1zhHQA1PZCbxiA_8oldUMgw  Password: 1234
-
+- 百度网盘（Baidu Netdisk）: 
+  - 128*128 Dataset: https://pan.baidu.com/s/1zhHQA1PZCbxiA_8oldUMgw  Password: 1234
+  - 256*256 Dataset: https://pan.baidu.com/s/1qaRiB_ude6dExZ9PqybRsA  Password: dk38
+  
 ## Cite
 Please consider citing our paper if this helps in your work:
 
