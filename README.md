@@ -15,7 +15,10 @@ The link of global cities dataset:
 - 百度网盘（Baidu Netdisk）: 
   - 128*128 Dataset: https://pan.baidu.com/s/1zhHQA1PZCbxiA_8oldUMgw  Password: 1234
   - 256*256 Dataset: https://pan.baidu.com/s/1qaRiB_ude6dExZ9PqybRsA  Password: dk38
-  
+
+## Pretrained Model
+The link of pretrained model: https://pan.baidu.com/s/1-IkFWgcC5t5UzlB_s19aZw?pwd=1234
+
 ## Cite
 Please consider citing our paper if this helps in your work:
 
