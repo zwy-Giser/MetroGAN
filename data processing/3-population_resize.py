@@ -20,12 +20,12 @@ for root,dirs,files in os.walk("/Users/zwy/research/MetroGAN/Data/pop raw/pop ra
 		'''if img_arr.max()>max_pop:
 			max_pop=img_arr.max()'''
 		img_arr[img_arr<0]=0
-		img_arr=(img_arr/159004.0)
-		print(img_arr.max())
 		img=Image.fromarray(img_arr)
-		img_resize=img.resize((128,128),Image.BICUBIC)
+		img=img.resize((128,128),Image.BICUBIC)
+        
 		#img_resize.show()
-		img_resize.save("/Users/zwy/research/MetroGAN/Data/multi-year_dataset/train/pop/Y"+str(year)+'-'+name)
+		img.save("/Users/zwy/research/MetroGAN/Data/pop raw resize 128/pop raw {year}/".format(year=year)
+		+name)
 
 
 
