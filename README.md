@@ -10,11 +10,8 @@ Weiyu Zhang, Yiyang Ma, Di zhu, Lei Dong, Yu Liu
 
 The paper is accepted by **KDD'22**.
 ## Dataset
-The link of global cities dataset: 
-- Dropbox: https://www.dropbox.com/s/ck168sn6xax6trc/Multi-year%20Dataset.zip?dl=0 
 - 百度网盘（Baidu Netdisk）: 
-  - 128*128 Dataset: https://pan.baidu.com/s/1zhHQA1PZCbxiA_8oldUMgw  Password: 1234
-  - 256*256 Dataset: https://pan.baidu.com/s/1qaRiB_ude6dExZ9PqybRsA  Password: dk38
+  链接: https://pan.baidu.com/s/1LlQtZrASIbhKVxkF6Fmnjg?pwd=0n67
 
 ## Pretrained Model
 The link of pretrained model: https://pan.baidu.com/s/1-IkFWgcC5t5UzlB_s19aZw?pwd=1234
