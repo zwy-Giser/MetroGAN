@@ -10,8 +10,6 @@ Weiyu Zhang, Yiyang Ma, Di zhu, Lei Dong, Yu Liu
 
 The paper is accepted by **KDD'22**.
 ## Dataset
-I'm sorry that due to my mistake, I previously uploaded an incorrect version of the dataset. 
-Please use the latest version that has been corrected and reorganized (May 23rd).
 - 百度网盘（Baidu Netdisk）: 
   链接: https://pan.baidu.com/s/1LlQtZrASIbhKVxkF6Fmnjg?pwd=0n67
 
